@@ -1,21 +1,22 @@
-
 {
-    "contacts": [
+    "person": [
         {
-                "id": "c200",
-                "name": "Ravi Tamada",
-                "email": "ravi@gmail.com"
+            "firstName": "Clark",
+            "lastName": "Kent",
+            "job": "Reporter",
+            "roll": 20
         },
         {
-                "id": "c202",
-                "name": "Leonardo Dicaprio",
-                "email": "leonardo_dicaprio@gmail.com"
+            "firstName": "Bruce",
+            "lastName": "Wayne",
+            "job": "Rich",
+            "roll": 30
         },
-
         {
-                "id": "c2012",
-                "name": "Eminem",
-                "email": "eminem@gmail.com"
+            "firstName": "Peter",
+            "lastName": "Parker",
+            "job": "Photographer",
+            "roll": 40
         }
     ]
-}
+ }
