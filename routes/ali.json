@@ -4,14 +4,14 @@
             "_id": "5fd3c53173f31322c8f10de1",
             "valorRefeicao": 35,
             "tipoRefeicao": "1",
-            "cidade": "aaaa",
+            "cidade": "itu",
             "__v": 0
         },
         {
             "_id": "5fd3ce5763faa4277cd4f26a",
             "valorRefeicao": 25,
             "tipoRefeicao": "2",
-            "cidade": "aaaa",
+            "cidade": "jundiai",
             "__v": 0
         }
     ]
