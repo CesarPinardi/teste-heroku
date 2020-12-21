@@ -13,6 +13,13 @@
             "tipoRefeicao": "2",
             "cidade": "jundiai",
             "__v": 0
+        },
+        {
+            "_id": "5fe0f46d08ac412cd842d7f1",
+            "valorRefeicao": 45,
+            "tipoRefeicao": "1",
+            "cidade": "jundiai",
+            "__v": 0
         }
     ]
 }
